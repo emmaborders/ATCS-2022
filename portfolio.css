@@ -31,3 +31,16 @@ li a:hover{
 .flex-box div{
     padding: 50px
 }
+
+.flex-box-image{
+    display: flex;
+    margin-top : 150px;
+}
+
+.flex-box-image div{
+    padding: 15px
+}
+
+.center{
+    text-align: center;
+}
