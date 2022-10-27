@@ -22,3 +22,12 @@ li a{
 li a:hover{
     background-color: #6672de;
 }
+.flex-box{
+    display: flex;
+    margin: auto;
+    width: 50%;
+}
+
+.flex-box div{
+    padding: 50px
+}
